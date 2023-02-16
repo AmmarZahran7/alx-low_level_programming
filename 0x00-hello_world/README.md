@@ -1,1 +1,1 @@
-First C task
+FIRST_C_TASK
